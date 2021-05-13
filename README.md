@@ -6,4 +6,4 @@ So I made everything as derpy as could be.
 Hope you enjoy!
 
 ## Please note
-I tested this game by using the web server extension created by Kyle Graehl. Can be by clicking [here] (https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) or here: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
+I tested this game by using the web server extension created by Kyle Graehl. Can be by clicking [here](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) or here: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
