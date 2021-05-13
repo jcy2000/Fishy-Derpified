@@ -2,7 +2,7 @@
 
 So I decided to make the fishy game. <br>
 Then after I made it, it wasn't as fun as I thought it could be. <br>
-So I made everything as derpy as could be. <br>
+So I made everything as derpy as could be and added my own twist to it. <br>
 Hope you enjoy!
 
 ## Please note
